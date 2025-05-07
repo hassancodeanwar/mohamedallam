@@ -37,13 +37,13 @@ To run this project locally, follow the steps below:
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/hassancodeanwar/mohamedallamai.git
+git clone https://github.com/hassancodeanwar/allamai.git
 ````
 
 ### 2. Navigate into the project directory
 
 ```bash
-cd mohamedallamai
+cd allamai
 ```
 
 ### 3. Install dependencies
