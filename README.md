@@ -11,7 +11,8 @@ Check out the live portfolio here:
 
 You can also showcase a preview using a screenshot. Click on the image to view the live website:
 
-[![Portfolio Screenshot](![Uploading image.png…]()
+[![Portfolio Screenshot](![image](https://github.com/user-attachments/assets/8dc109d8-11cc-431a-98f7-2f62c46dc2e2)
+)
 )](https://mohamedallamai.vercel.app/)
 
 ---
