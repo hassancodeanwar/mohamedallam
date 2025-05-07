@@ -11,7 +11,8 @@ Check out the live portfolio here:
 
 You can also showcase a preview using a screenshot. Click on the image to view the live website:
 
-[![Portfolio Screenshot](https://raw.githubusercontent.com/hassancodeanwar/mohamed-allam-portfolio/refs/heads/main/img/Screenshot%202025-05-05%20080346.png)](https://mohamedallamai.vercel.app/)
+[![Portfolio Screenshot](![Uploading image.png…]()
+)](https://mohamedallamai.vercel.app/)
 
 ---
 
